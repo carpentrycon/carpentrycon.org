@@ -2,9 +2,9 @@ url: http://www.carpentrycon.org
 baseurl: "/"
 
 # Site settings
-title: CarpentryCon 2020
+title: CarpentryCon
 email: carpentrycon@carpentries.org
-description: "The official website for CarpentryCon 2020"
+description: "The official website for CarpentryCon"
 
 
 # Team names, titles and social links
